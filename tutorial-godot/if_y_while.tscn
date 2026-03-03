@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://br0fciyumvpov"]
+
+[ext_resource type="Script" uid="uid://bc7yuodjsp2nk" path="res://if_y_while.gd" id="1_rnew5"]
+[ext_resource type="Texture2D" uid="uid://b1n7pro6syqj" path="res://icon.svg" id="2_thkfd"]
+
+[node name="if y while" type="Node2D" unique_id=430528908]
+script = ExtResource("1_rnew5")
+
+[node name="Sprite2D_" type="Sprite2D" parent="." unique_id=1536167908]
+texture = ExtResource("2_thkfd")
