@@ -1,0 +1,46 @@
+[gd_scene format=3 uid="uid://dcg467umcoebd"]
+
+[ext_resource type="Texture2D" uid="uid://b1n7pro6syqj" path="res://icon.svg" id="1_ngiyr"]
+
+[node name="First Scene" type="Node2D" unique_id=1294326730]
+
+[node name="Sprite2D3" type="Sprite2D" parent="." unique_id=584843889]
+position = Vector2(282.98312, -170)
+texture = ExtResource("1_ngiyr")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=742846157]
+position = Vector2(484.9832, -57)
+rotation = 0.58119464
+scale = Vector2(1, 0.5)
+texture = ExtResource("1_ngiyr")
+
+[node name="Sprite2D2" type="Sprite2D" parent="." unique_id=653540473]
+position = Vector2(321.98312, 310.00003)
+scale = Vector2(0.390625, 1.515625)
+texture = ExtResource("1_ngiyr")
+
+[node name="Sprite2D4" type="Sprite2D" parent="." unique_id=583492969]
+position = Vector2(154.98312, -86.999985)
+scale = Vector2(1, 0.54687506)
+texture = ExtResource("1_ngiyr")
+
+[node name="Sprite2D5" type="Sprite2D" parent="." unique_id=2062685409]
+position = Vector2(394.98312, -85)
+scale = Vector2(1, 0.421875)
+texture = ExtResource("1_ngiyr")
+
+[node name="Sprite2D6" type="Sprite2D" parent="." unique_id=575819166]
+position = Vector2(280.98312, 50.75)
+scale = Vector2(1.1875, 2.753906)
+texture = ExtResource("1_ngiyr")
+
+[node name="Sprite2D7" type="Sprite2D" parent="." unique_id=479114691]
+position = Vector2(238.98315, 314.25)
+scale = Vector2(0.40625, 1.4335938)
+texture = ExtResource("1_ngiyr")
+
+[node name="Sprite2D8" type="Sprite2D" parent="." unique_id=282743418]
+position = Vector2(64.98303, -37.99997)
+rotation = -0.81332344
+scale = Vector2(1.2890625, 0.5010319)
+texture = ExtResource("1_ngiyr")
